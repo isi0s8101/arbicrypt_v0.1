@@ -1,0 +1,26 @@
+# Dépendances
+/node_modules
+/.pnp
+.pnp.js
+
+# Fichiers de configuration et d'environnement
+/.env
+/config.js
+
+# Dossiers de build
+/dist
+/build
+
+# Divers
+.DS_Store
+*.log
+npm-debug.log*
+
+# Environnement virtuel Python
+venv/
+*.pyc
+__pycache__/
+
+# Fichiers et dossiers spécifiques au développement
+/.vscode/
+.idea/
