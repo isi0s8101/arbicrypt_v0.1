@@ -1,4 +1,3 @@
-//package.json Initialise le projet Node.js et définit les dépendances
 {
   "name": "arbicrypt-backend",
   "version": "1.0.0",
